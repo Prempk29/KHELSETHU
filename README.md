@@ -9,7 +9,7 @@ Participants and spectators can also benefit from the project. Participants can 
 The project simplifies the management of sports events by providing a centralized platform where all the necessary information and operations can be handled. It reduces manual work, streamlines processes, and improves efficiency. Whether it's a small local tournament or a large-scale sporting event, the sports event management project aims to make the entire experience smoother and more enjoyable for everyone involved.
 
 <h2>Deployment Link</h2>
-<a href="https://khelsethu-q911.onrender.com/">View Deployment</a>
+<a href="https://khelsethu1.onrender.com/">View Deployment</a>
 
 <h2>Installation</h2>
 Install Finder Desk
