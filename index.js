@@ -248,6 +248,7 @@ app.post("/testing", async(req, res) => {
 
     try {
         await register.save();
+        res.redirect("/checkevents")
 
 
     } catch (err) {
